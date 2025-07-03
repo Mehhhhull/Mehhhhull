@@ -1,3 +1,18 @@
+# 🚀 Hey, I'm Mehul Kumar Singh  
+Full Stack Developer | DevOps Learner | Web3 Explorer | Problem Solver in Progress
+
+📩 Let’s connect → [mehulkumarsingh.2004@gmail.com]
+
+- 🌐 Currently building: Threesixtyspace – a web dev brand focused on clean, conversion-friendly digital experiences  
+- 🤖 Exploring: Machine Learning & Web3 , not chasing hype, just expanding my problem-solving toolkit  
+- 🧠 Problem solver at heart: I don’t just write code, I build solutions that actually make sense  
+- 💼 Actively seeking: Internship opportunities in Full Stack Development,DevOps, or Web3 Development  
+- 🎯 Focused on real-world impact: I’m here to contribute to meaningful projects and grow through hands-on work  
+- 💬 Talk to me about: Web development, deploying scalable systems, or how to make your UI not look like it time-traveled from 2005
+
+
+"Give me a problem and Wi-Fi, and I’ll return with a solution (and probably a dark theme too)."😎
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehulkumarsinghhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehulkumarsingh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehulkumarsingh.2004@gmail.com) 
