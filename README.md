@@ -1,7 +1,7 @@
 # 🚀 Hey, I'm Mehul Kumar Singh  
 Full Stack Developer | DevOps Learner | Web3 Explorer | Problem Solver in Progress
 
-📩 Let’s connect → [mehulkumarsingh.2004@gmail.com]
+📩 Let’s connect → [mehulkumarsingh]
 
 - 🌐 Currently building: Threesixtyspace – a web dev brand focused on clean, conversion-friendly digital experiences.  
 - 🤔 Exploring: Machine Learning & Web3 , not chasing hype, just expanding my problem-solving toolkit.  
