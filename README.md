@@ -15,7 +15,7 @@ Currently exploring and building in the worlds of:
 - 🎓 Pursuing my **B.Tech in Computer Science**  
 - 💡 Curious learner, constantly pushing boundaries  
 - 🤝 Open to exciting **collaborations, freelancing, and internships**  
-- 🚀 Founder of **Threesixtyspace** – building creative web solutions  
+- 🚀 Was Founder of **Threesixtyspace** – Web Design & Development Agency 
 - 🧠 Believe in learning by doing and sharing knowledge with others  
 
 
