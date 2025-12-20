@@ -1,6 +1,9 @@
 
 # 👋 Hi there, I'm Mehul Kumar Singh!  
 
+<img src="(https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)" alt="anime coding" width="400"/>
+
+
 ## 🌟 About Me  
 I'm not just a programmer — I'm a **problem solver and tech enthusiast** who loves turning ideas into reality.  
 Currently exploring and building in the worlds of:  
