@@ -9,7 +9,7 @@ I'm not just a programmer — I'm a **problem solver and tech enthusiast** who l
 Currently exploring and building in the worlds of:  
 
 - 🌐 Web Development (MERN + Next.js+Python Backend)
-- 🔗 Scalable System Design
+- 🔗 Scalable Backend Development
 - 📱 App Development  (FLUTTER+REACT NATIVE)[---]
 - 🤖 Artificial Intelligence / Machine Learning [--] 
 - 🔗 Web3 
