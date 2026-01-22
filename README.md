@@ -8,12 +8,12 @@
 I'm not just a programmer — I'm a **problem solver and tech enthusiast** who loves turning ideas into reality.  
 Currently exploring and building in the worlds of:  
 
-- 🌐 Web Development (MERN + Next.js+Python Backend)
-- 🔗 Scalable Backend Development
-- 📱 App Development  (FLUTTER+REACT NATIVE)[---]
-- 🤖 Artificial Intelligence / Machine Learning [--] 
+- 🌐Full Stack Developer(Backend-Heavy)
+- 🔗 AI Developer
+- 📱 App Development 
+- 🤖 Artificial Intelligence / Machine Learning
 - 🔗 Web3 
-- ⚙️ DevOps  
+
 
 ## 🚀 Quick Highlights  
 - 🎓 Pursuing my **B.Tech in Computer Science**  
