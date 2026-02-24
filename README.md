@@ -6,6 +6,7 @@
 
 ## 🌟 About Me  
 I'm 2nd Year CS Student
+
 I'm not just a programmer — I'm a **problem solver and tech enthusiast** who loves turning ideas into reality.  
 Currently exploring and building in the worlds of:  
 
