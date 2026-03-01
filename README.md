@@ -10,11 +10,11 @@ I'm 2nd Year CS Student
 I'm not just a programmer — I'm a **problem solver and tech enthusiast** who loves turning ideas into reality.  
 Currently exploring and building in the worlds of:  
 
-- 🌐Full Stack Developer(Backend-Heavy)
+- 🌐Full Stack Developer
 - 🔗 AI Developer
 - 📱 App Development 
 - 🤖 Artificial Intelligence / Machine Learning
-- 🔗 Web3 
+- DevOps
 
 <p align="center">
   <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
