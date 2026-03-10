@@ -14,7 +14,7 @@ Currently exploring and building in the worlds of:
 - 🔗 AI Developer
 - 📱 App Development 
 - 🤖 Artificial Intelligence / Machine Learning
-- DevOps
+-🔧 DevOps
 
 <p align="center">
   <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
