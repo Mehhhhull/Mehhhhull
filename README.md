@@ -14,6 +14,7 @@ Currently exploring and building in the worlds of:
 - 🔗 AI Developer
 - 📱 App Development 
 - 🤖 Artificial Intelligence / Machine Learning
+- 
 -🔧 DevOps
 
 <p align="center">
