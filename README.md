@@ -1,9 +1,8 @@
 
 # 👋 Hi there, I'm Mehul Kumar Singh!  
 
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="anime coding" width="400"/>
+<img src="[https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif](https://tenor.com/search/moving-anime-wallpapers-for-desktop-gifs)" alt="anime" width="400"/>
 
-My projects:
 
 ## 🌟 About Me  
 I'm 2nd Year CS Student
