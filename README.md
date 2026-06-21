@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Mehul Kumar Singh!  
 
-<img src="https://media.tenor.com/fECMwsFrW_YAAAAC/anime-boy.gif" alt="anime" width="400"/>
+<img src="https://media.tenor.com/fECMwsFrW_YAAAAC/anime-boy.gif" alt="anime" width="600"/>
 
 
 ## 🌟 About Me  
